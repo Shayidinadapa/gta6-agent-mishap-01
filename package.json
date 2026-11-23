@@ -1,0 +1,1 @@
+{"description":"One original sentence for the make.fun bounty 'Funniest AI Agent Mishap: GTA 6 Launch Week': the funniest true-to-life thing an AI coding agent did while its human was busy playing GTA 6.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"gta6-agent-mishap-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
